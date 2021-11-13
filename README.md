@@ -40,7 +40,7 @@ https://gitee.com/yhhhygge/r_homework
 楚天瑶组：
 https://github.com/sleepingforest2/bioinfomatics-class/tree/main/teamwork
 
-韩聪组：暂无
+韩聪组：https://gitee.com/hanccong/teamwork-t.test
 
 欢迎根据自己课题需要，提交想要实现的功能，会选择性发布作为以后的团队作业内容。
 Welcome to submit your request based on your project, we will choose some as the later teamwork.
